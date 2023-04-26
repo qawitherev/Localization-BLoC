@@ -7,5 +7,16 @@
   "body": "Ini adalah badan kepada Perancah",
   "@body": {
     "description": "Body description of Scaffold"
-  }
+  },
+
+  "changeTheme": "Tukar tema applikasi",
+  "@changeTheme": {
+    "description": "Description of changing the application's theme"
+  },
+
+  "lightMode": "Mod cerah",
+
+  "darkMode": "Mod Gelap",
+
+  "toggleMode": "Togol Mod"
 }

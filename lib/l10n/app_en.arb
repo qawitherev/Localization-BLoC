@@ -7,5 +7,16 @@
   "body": "This is the body of Scaffold",
   "@body": {
     "description": "Body description of Scaffold"
-  }
+  },
+
+  "changeTheme": "Change Application's Theme",
+  "@changeTheme": {
+    "description": "Description of changing the application's theme"
+  },
+
+  "lightMode": "Light Mode",
+
+  "darkMode": "Dark Mode",
+
+  "toggleMode": "Toggle Mode"
 }
