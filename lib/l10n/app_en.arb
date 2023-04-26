@@ -1,0 +1,11 @@
+{
+  "appbar": "This is the AppBar",
+  "@appbar": {
+    "description": "AppBar description"
+  },
+
+  "body": "This is the body of Scaffold",
+  "@body": {
+    "description": "Body description of Scaffold"
+  }
+}

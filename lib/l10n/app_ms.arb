@@ -1,0 +1,11 @@
+{
+  "appbar": "Ini ialah BarApp",
+  "@appbar": {
+    "description": "AppBar description"
+  },
+
+  "body": "Ini adalah badan kepada Perancah",
+  "@body": {
+    "description": "Body description of Scaffold"
+  }
+}
